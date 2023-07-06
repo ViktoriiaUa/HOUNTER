@@ -8,6 +8,3 @@ Landing page for a real estate agency
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://viktoriiaua.github.io/HOUNTER/)](https://viktoriiaua.github.io/HOUNTER/)
 
-<p align="center">
-<img  src="https://github.com/ViktoriiaUa/HOUNTER/raw/main/first branch/screencapture-127-0-0-1-5500-index-html-2023-06-27-14_17_40.png"  width="350" alt=".png"/>
-</p>
