@@ -7,3 +7,5 @@ Landing page for a real estate agency
 - Eva Icons
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://viktoriiaua.github.io/HOUNTER/)](https://viktoriiaua.github.io/HOUNTER/)
+
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
